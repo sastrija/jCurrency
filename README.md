@@ -1,0 +1,2 @@
+# jCurrency
+Currency Input customization
